@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class PizzaGUIRunner {
+public class PizzaGUIRunner
+{
+    public static void main(String[] args)
+    {
+        new PizzaGUIFrame();
+    }
 }
